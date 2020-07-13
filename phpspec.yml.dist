@@ -4,5 +4,4 @@ suites:
         psr4_prefix: Http\Message
 formatter.name: pretty
 extensions:
-    - Coduo\PhpSpec\DataProvider\DataProviderExtension
-    - Akeneo\SkipExampleExtension
+    Akeneo\SkipExampleExtension: ~
