@@ -5,3 +5,4 @@ suites:
 formatter.name: pretty
 extensions:
     Akeneo\SkipExampleExtension: ~
+bootstrap: spec/bootstrap.php
